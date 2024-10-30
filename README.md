@@ -24,7 +24,9 @@ Maven
 
 # Endpoints
 http://localhost:8080/v1/clients
+
 http://localhost:8080/v1/orders
+
 http://localhost:8080/v1/products
 
 # Contract (Swagger)
